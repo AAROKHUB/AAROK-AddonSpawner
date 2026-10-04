@@ -1,6 +1,6 @@
 # Release Notes
 
-## AAROK 1.7.0 — Paint Menu Build
+## AVOK 1.7.0 — Paint Menu Build
 
 This release adds a compiled source modification: an automatic paint menu that opens immediately after every vehicle spawn.
 
@@ -14,9 +14,9 @@ This release adds a compiled source modification: an automatic paint menu that o
 
 ### Carried Over from 1.6.5
 
-- AAROK purple menu styling.
-- AAROK title branding in the menu.
-- Custom `noimage.png` preview using the AAROK logo mark.
+- AVOK purple menu styling.
+- AVOK title branding in the menu.
+- Custom `noimage.png` preview using the AVOK logo mark.
 - Menu position moved toward the top-left corner.
 - Safer defaults:
   - `ListAllDLCs = false`

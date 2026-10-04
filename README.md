@@ -1,14 +1,14 @@
-# AAROK Add-On Vehicle Spawner
+# AVOK Add-On Vehicle Spawner
 
-AAROK Add-On Vehicle Spawner is a custom build of the GTA V Add-On Vehicle Spawner by ikt. It adds a purple AAROK visual identity, a custom preview image, safer test defaults, and a built-in **automatic paint menu** that opens immediately after spawning any vehicle.
+AVOK Add-On Vehicle Spawner is a custom build of the GTA V Add-On Vehicle Spawner by ikt. It adds a purple AVOK visual identity, a custom preview image, safer test defaults, and a built-in **automatic paint menu** that opens immediately after spawning any vehicle.
 
-![AAROK preview](preview.png)
+![AVOK preview](preview.png)
 
 ## Features
 
-- Purple AAROK menu theme.
-- Internal menu title patched to `AAROK`.
-- Custom default preview image using the AAROK logo mark.
+- Purple AVOK menu theme.
+- Internal menu title patched to `AVOK`.
+- Custom default preview image using the AVOK logo mark.
 - Top-left menu positioning.
 - Safer test defaults:
   - official DLC listing disabled by default,
@@ -23,7 +23,7 @@ AAROK Add-On Vehicle Spawner is a custom build of the GTA V Add-On Vehicle Spawn
 
 Use the release ZIP:
 
-[AAROK-AddonSpawner-v1.7.0-paint-menu.zip](release/AAROK-AddonSpawner-v1.7.0-paint-menu.zip)
+[AVOK-AddonSpawner-v1.7.0-paint-menu.zip](release/AVOK-AddonSpawner-v1.7.0-paint-menu.zip)
 
 ## Installation
 
@@ -39,7 +39,7 @@ Use the release ZIP:
 To group vehicles for testing:
 
 1. Open `AddonSpawner/UserDLC`.
-2. Create a `.list` file, for example `AAROK Tests.list`.
+2. Create a `.list` file, for example `AVOK Tests.list`.
 3. Add one vehicle spawn name per line.
 
 Example:
@@ -55,7 +55,7 @@ The group will appear in the spawner under user add-on groupings.
 
 - Use this only in GTA V story mode.
 - Do not use modded files in GTA Online.
-- This package is branded as `1.7.0` for the AAROK paint-menu build.
+- This package is branded as `1.7.0` for the AVOK paint-menu build.
 - The core ASI is based on Add-On Vehicle Spawner `1.6.2` with custom source modifications.
 - Built with Visual Studio Build Tools 2022 (v143 toolset).
 - Add-On Vehicle Spawner / GTAVAddonLoader is licensed under MPL 2.0. Keep the original credits and source link when redistributing.
@@ -63,4 +63,4 @@ The group will appear in the spawner under user add-on groupings.
 ## Credits
 
 - Original Add-On Vehicle Spawner: ikt.
-- AAROK theme, configuration, and preview asset: AAROK.
+- AVOK theme, configuration, and preview asset: AVOK.
